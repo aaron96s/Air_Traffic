@@ -1,1 +1,1 @@
-# Air_Traffic
+# The data comes from the U.S. International Air Passenger and Freight Statistics Report. As part of the T-100 program, USDOT receives traffic reports of US and international airlines operating to and from US airports. 
